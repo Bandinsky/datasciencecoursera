@@ -1,3 +1,3 @@
 # datasciencecoursera
-Repo created for the Coursera Project
+Repo created for the Coursera Project.
 Specifically.
